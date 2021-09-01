@@ -44,7 +44,7 @@ class Home extends StatelessWidget {
               children: <Widget>[
 
                 Expanded (child: Text(
-                  "India Airways",
+                  "India Airlines",
                   textDirection: TextDirection.ltr,
                   style: TextStyle(
                     color: Colors.redAccent,
